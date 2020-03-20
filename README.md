@@ -1,4 +1,4 @@
-Road detection by yolov3 (darknet/AlexeyAB)
+Road detection by yolov3 (darknet/AlexeyAB), Image processing with OpenCV.
 
 Firstly go to AlexeyAB repo and follow his instructions.
 
