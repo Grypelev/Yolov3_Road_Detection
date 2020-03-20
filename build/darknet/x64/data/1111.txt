@@ -1,0 +1,11 @@
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/001.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/002.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/003.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/004.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/005.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/006.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/007.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/008.jpg
+/home/lefteris/darknet/build/darknet/x64/data/voc/obj/009.jpg
+
+

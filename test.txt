@@ -1,0 +1,5 @@
+/home/lefteris/darknet/test1.jpg
+/home/lefteris/darknet/test2.jpg
+/home/lefteris/darknet/test3.jpg
+
+

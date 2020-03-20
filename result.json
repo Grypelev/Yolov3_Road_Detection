@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"test4.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"road", "relative_coordinates":{"center_x":0.554815, "center_y":0.585391, "width":0.430234, "height":0.209460}, "confidence":0.988684}, 
+  {"class_id":0, "name":"road", "relative_coordinates":{"center_x":0.521248, "center_y":0.721917, "width":0.746821, "height":0.316242}, "confidence":0.735343}, 
+  {"class_id":0, "name":"road", "relative_coordinates":{"center_x":0.581593, "center_y":0.483333, "width":0.190129, "height":0.097031}, "confidence":0.475536}
+ ] 
+}
+]
